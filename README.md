@@ -12,6 +12,6 @@ Key Features:
 * 📱 Fully responsive design
 * ✨ Smooth animations and interactive UI
 
-Technologies: HTML5, CSS3, JavaScript
+Technologies Used: HTML5, CSS3, JavaScript
 
 
